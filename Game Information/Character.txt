@@ -1,0 +1,41 @@
+			Character Information 
+
+
+
+
+Character Attributes 
+
+
+HP = Health Points = Your characters health
+
+MP = Mana Points  = Your character will need mana points to use magic 
+
+Strength = Your characters attack damage 
+
+Magic = Your characters magic strength the magic damage will depend on your magic 
+
+Level = Your characters level and also the level of monsters 
+
+Next Level = Experience left to gain a level 
+
+
+
+Character Type and Abilities Information
+
+
+Warrior = Has high initial HP and Strength
+
+Marksman = Has high initial Strength and Magic
+
+Spellcaster = Has high initial MP and Magic 
+
+
+
+
+Overdrive Mode Effects
+
+Warrior = Strength will increase by a multiply of 4
+
+Marksman =Strength and Magic will increase by a multiply of 2 
+
+Spellcaster = MP cost for all magic is divided by 5 

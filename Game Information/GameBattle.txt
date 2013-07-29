@@ -1,0 +1,36 @@
+		           Game/ Battle Help 
+
+
+
+
+
+Game Objective and Tips 
+
+explore the world and defeat monsters to gain experience and level up your character to become stronger.  
+
+- You gain 100 experience points each time you defeat a monster, 
+
+- you will  gain 350 exp when you defeat a monster when your level is above 3
+
+- monsters will also gain a level when  you level up making them stronger
+
+- When you think you are strong enough, you can take on the final boss to win the game.
+
+- You are defeated when a monster reduces your HP to zero. 
+
+It will be game over therefore you will lose your character so remember to save your game!
+
+
+
+
+
+
+Battle Help - Commands Information 
+
+Scan Monster = Get the monster description and the monsters health 
+
+Attack = Attack the monster, damage will depend on your characters strength, monster will retaliate 
+
+Recover MP = Your character recovers MP depending on the characters level, monster will retaliate
+
+Escape Battle = System will take you back to the main menu, you will not gain any experience 

@@ -1,0 +1,44 @@
+			Magic and Item Help
+
+
+
+
+
+Magic Use
+
+
+-To use a magic select a magic from the magic menu and press select magic 
+
+-You cannot use the magic if you have insufficient MP 
+
+
+
+Magic Information
+
+
+-Fire, Blizzard and Thunder  deals 2x your characters magic strength 
+
+-Holy deals 5x your characters magic strength
+
+-Ultima deals 20x your characters magic strength!! 
+
+
+
+Item Use 
+
+
+-To use an item, select an item in the item menu and press select item 
+
+-You cannot use an item if you don’t have that Item
+
+
+
+
+Item Information 
+
+
+-Potion  heals your character at a total of 200 HP 
+
+-Magic Stone unleashes a random elemental magic dealing 2x your character’s magic strength
+
+- Ultima Stone deals half of the power of the Ultima Magic which is 10x your magic strength 
